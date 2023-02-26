@@ -1,0 +1,4 @@
+Fernandez Romero Adrian Felipe
+
+Lo unico que tienes que hacer es compilar todas las clases y leer las instrucciones (se encuentran al momento de ejecutar el main)
+
